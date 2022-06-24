@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="JTHm*VfaI2PIkl`~gWzR" x="0" y="0"></block><block type="controls_if" id="{5WUs,90z#4dg5=)1|k`" disabled="true" x="199" y="21"><mutation elseif="1" else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="+VMTBBS~ybq$jW_:2`vx" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block><block type="device_show_leds" id="V#H_l(w6T^:?xUhj#zpg" disabled="true" x="0" y="164"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . .
+        `</field></block><block type="device_temperature" id="I?6?VCorY;Iu$9I.8g(o" disabled="true" x="548" y="146"></block><block type="device_temperature" id="90vxtVJcrizxX4^jTz8W" disabled="true" x="543" y="218"></block><block type="logic_compare" id="vORxG-[)QiR8}X~*c/Wo" disabled="true" x="462" y="298"><field name="OP">LT</field><value name="A"><shadow type="math_number" id="oGpd2ktjQ]dNRzrJGvA]" disabled="true"><field name="NUM">0</field></shadow></value><value name="B"><shadow type="math_number" id="/6dB=zK}4P7gI}S]#Ex8" disabled="true"><field name="NUM">18</field></shadow></value></block><block type="device_show_leds" id="kl$UDr{n^wLM=Dd^^[V{" disabled="true" x="239" y="345"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . #
+        `</field></block><block type="logic_compare" id="oPs`~C3c-rP(W*u[s.e?" disabled="true" x="446" y="388"><field name="OP">GT</field><value name="A"><shadow type="math_number" id="@NouJ]?GffvYGoLfJEqI" disabled="true"><field name="NUM">0</field></shadow></value><value name="B"><shadow type="math_number" id="5Fzp{tvxbS#`|8XDqHGC" disabled="true"><field name="NUM">24</field></shadow></value></block><block type="device_show_leds" id="}FgkXB5R,{1Vc)3`^XZ." disabled="true" x="50" y="432"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></xml>
